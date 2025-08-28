@@ -1,0 +1,1 @@
+Toda la explicacion necesaria se encuentra en el aplicativo ;D

@@ -1,0 +1,46 @@
+Nombre: ['50']
+Ruta: D:\SimonFalla\Personal\Programacion\Curso_python, SQlite\Ficheros+Curso+Windows\50.txt
+Nombre: ['99']
+Ruta: D:\SimonFalla\Personal\Programacion\Curso, PHP, Javascrypt, SQL\HTML\freelancer_inicio\img\99.txt
+Nombre: ['50']
+Ruta: D:\SimonFalla\Personal\Programacion\Curso_python, SQlite\Ficheros+Curso+Windows\50.txt
+Nombre: ['99']
+Ruta: D:\SimonFalla\Personal\Programacion\Curso, PHP, Javascrypt, SQL\HTML\freelancer_inicio\img\99.txt
+Nombre: ['468597410']
+Ruta: C:\Users\orosh\OneDrive\Escritorio\468597410.pdf
+Nombre: ['velocidad']
+Ruta: C:\Users\Simon Falla\Desktop\Simon\Programacion\Curso, PHP, Javascrypt, SQL\HTML\freelancer_inicio\css\velocidad.txt
+Nombre: ['search']
+Ruta: C:\Users\Simon Falla\Desktop\Simon\Programacion\Curso, PHP, Javascrypt, SQL\HTML\freelancer_inicio\css\search.txt
+Nombre: ['velocidad']
+Ruta: C:\Users\Simon Falla\Desktop\Simon\Programacion\Curso, PHP, Javascrypt, SQL\HTML\freelancer_inicio\css\velocidad.txt
+Nombre: ['velocidad']
+Ruta: C:\Windows\System32\appmgmt\velocidad.txt
+Nombre: ['search']
+Ruta: C:\Windows\System32\appmgmt\search.txt
+Nombre: ['cmd']
+Ruta: C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-commandprompt_31bf3856ad364e35_10.0.19041.746_none_69061189792bce34\f\cmd.exe
+Nombre: ['1']
+Ruta: C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.3031_none_02e679fe4c53ce0f\f\1.txt
+Nombre: ['2']
+Ruta: C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.3031_none_02e679fe4c53ce0f\f\2.txt
+Nombre: ['3']
+Ruta: C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.3031_none_02e679fe4c53ce0f\f\3.txt
+Nombre: ['4']
+Ruta: C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.3031_none_02e679fe4c53ce0f\f\4.txt
+Nombre: ['5']
+Ruta: C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.3031_none_02e679fe4c53ce0f\f\5.txt
+Nombre: ['6']
+Ruta: C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.3031_none_02e679fe4c53ce0f\f\6.txt
+Nombre: ['7']
+Ruta: C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.3031_none_02e679fe4c53ce0f\f\7.txt
+Nombre: ['8']
+Ruta: C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.3031_none_02e679fe4c53ce0f\f\8.txt
+Nombre: ['99']
+Ruta: C:\Users\Simon Falla\Desktop\Personal\Programacion\Curso, PHP, Javascrypt, SQL\HTML\2\FrontEndStore_fin\img\99.txt
+Nombre: ['cliente1']
+Ruta: C:\Users\Simon Falla\Desktop\Personal\Programacion\Curso_python, SQlite (Completado)\Ficheros+Curso+Windows\CursoPython\Fase 4 - Temas avanzados\Tema 15 - Funcionalidades avanzadas\Apuntes\img\cliente1.txt
+Nombre: ['cliente2']
+Ruta: C:\Users\Simon Falla\Desktop\Personal\Programacion\Curso_python, SQlite (Completado)\Ficheros+Curso+Windows\CursoPython\Fase 4 - Temas avanzados\Tema 15 - Funcionalidades avanzadas\Apuntes\img\cliente2.txt
+Nombre: ['consiguelo']
+Ruta: C:\ProgramData\Microsoft\Diagnosis\Temp\DiagTrackTraceSlot_miniTrace\consiguelo.txt
