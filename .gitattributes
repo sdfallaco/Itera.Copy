@@ -1,0 +1,2 @@
+# Forzar a GitHub a detectar Python como lenguaje principal
+*.py linguist-language=Python
